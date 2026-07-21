@@ -2,4 +2,4 @@
 .vscode
 .venv
 data_generator/mockaroo_export/*
-data_generator/output/.json
+data_generator/output/products.json
